@@ -1,0 +1,18 @@
+Configuring RepLib-0.5.4...
+Building RepLib-0.5.4...
+Preprocessing library RepLib-0.5.4...
+[ 1 of 12] Compiling Generics.RepLib.R ( Generics/RepLib/R.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/R.o )
+[ 2 of 12] Compiling Generics.RepLib.R1 ( Generics/RepLib/R1.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/R1.o )
+[ 3 of 12] Compiling Generics.RepLib.Derive ( Generics/RepLib/Derive.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/Derive.o )
+[ 4 of 12] Compiling Generics.RepLib.PreludeReps ( Generics/RepLib/PreludeReps.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/PreludeReps.o )
+[ 5 of 12] Compiling Generics.RepLib.RepAux ( Generics/RepLib/RepAux.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/RepAux.o )
+[ 6 of 12] Compiling Generics.RepLib.SYB.Aliases ( Generics/RepLib/SYB/Aliases.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/SYB/Aliases.o )
+[ 7 of 12] Compiling Generics.RepLib.SYB.Schemes ( Generics/RepLib/SYB/Schemes.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/SYB/Schemes.o )
+[ 8 of 12] Compiling Generics.RepLib.PreludeLib ( Generics/RepLib/PreludeLib.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/PreludeLib.o )
+[ 9 of 12] Compiling Generics.RepLib.AbstractReps ( Generics/RepLib/AbstractReps.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/AbstractReps.o )
+[10 of 12] Compiling Generics.RepLib.Lib ( Generics/RepLib/Lib.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/Lib.o )
+[11 of 12] Compiling Generics.RepLib.Unify ( Generics/RepLib/Unify.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib/Unify.o )
+[12 of 12] Compiling Generics.RepLib  ( Generics/RepLib.hs, .stack-work/dist/x86_64-osx/Cabal-1.24.0.0/build/Generics/RepLib.o )
+Installing library in
+/Users/heades/.stack/snapshots/x86_64-osx/lts-7.19/8.0.1/lib/x86_64-osx-ghc-8.0.1/RepLib-0.5.4-JjfHsn4PpfyHZE0ueJHrtD
+Registering RepLib-0.5.4...
